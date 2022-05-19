@@ -9,5 +9,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leocostarj22&show_icons=true&theme=tokyonight)
 
+<div style="align: center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70px" height="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70px" height="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="70px" height="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="70px" height="60">
+  </div>
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif">
+
 
