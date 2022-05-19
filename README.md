@@ -14,7 +14,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70px" height="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="70px" height="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="70px" height="60">
-  </div>
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif">
+  <br>
+</div>
 
+<div>
+  <a href="mailto://jetad062@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
+</div>
+<div>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif">
+</div>
 
