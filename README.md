@@ -9,5 +9,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leocostarj22&show_icons=true&theme=tokyonight)
 
-
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif">
 
