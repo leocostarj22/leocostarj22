@@ -13,7 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70px" height="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70px" height="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="70px" height="60">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/php-plain.svg](https://img.icons8.com/external-fauzidea-flat-fauzidea/72/external-php-document-file-extension-fauzidea-flat-fauzidea.png" width="70px" height="60">
+  <img src="https://www.flaticon.com/free-icon/php_919830?term=php%20development&page=1&position=1&page=1&position=1&related_id=919830&origin=search" width="70px" height="60">
   <br>
 </div>
 <br>
