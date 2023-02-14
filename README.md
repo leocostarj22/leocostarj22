@@ -1,4 +1,4 @@
-<h1> Fala aí, beleza? Eu sou Leonardo Costa! 👋 </h1>
+<h1> Olá, como vai? Eu sou Leonardo Costa! 👋 </h1>
 
 <h3> Se caiu aqui de 🪂 então seja bem-vindo! </h3>
 
