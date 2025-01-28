@@ -4,17 +4,28 @@
 
 - 🔭 Atuando no mercado como Engenheiro de Software | Desenvolvimento Web ...
 - 🌱 Desenvolvendo habilidades e aprendendo muito com a linguagem JAVA ...
-- 👯 Iniciando MBA em Engenharia de Software ...
-- 📫 Contatos: contato@leocostadeveloper.com ...
+- 👯 MBA em Gestão em Engenharia de Software ...
+- 📫 Contatos: leocostadeveloper@icloud.com ...
+- LinkedIn: https://www.linkedin.com/in/leocostadeveloper/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leocostarj22&show_icons=true&theme=tokyonight)
 
 <div style="align: center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70px" height="60">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70px" height="60">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="70px" height="60">
-  <img src="https://icons8.com/icon/Fycm8TUhWmFU/c-sharp-logo" width="70px" height="60">
-  <br>
+# Olá, eu sou [Seu Nome]
+
+Sou um desenvolvedor de software com base em Lisboa, apaixonado por criar soluções que combinam funcionalidade e design intuitivo. Aqui estão algumas das tecnologias que trabalho:
+
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP, .NET/C#
+- Banco de Dados: MySQL, SQL Server
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
 </div>
 <br>
 <div>
