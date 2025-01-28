@@ -8,9 +8,12 @@
 - 📫 Contatos: leocostadeveloper@icloud.com ...
 - LinkedIn: https://www.linkedin.com/in/leocostadeveloper/
 
+<hr>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leocostarj22&show_icons=true&theme=tokyonight)
 
 <hr>
+
 <div style="align: center">
 # Olá, eu sou [Seu Nome]
 
