@@ -19,12 +19,12 @@ Sou um desenvolvedor de software com base em Lisboa, apaixonado por criar soluç
 - Backend: PHP, .NET/C#
 - Banco de Dados: MySQL, SQL Server
 
-<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" height="120" />
-<img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" height="120" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="120" />
-<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" height="120" />
-<img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white" height="120" />
-<img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" height="120" />
+<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="40" />
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" height="40" />
 
 </div>
 <br>
