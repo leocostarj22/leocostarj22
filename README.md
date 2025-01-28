@@ -15,8 +15,6 @@
 <hr>
 
 <div style="align: center">
-# Olá, eu sou [Seu Nome]
-
 Sou um desenvolvedor de software com base em Lisboa, apaixonado por criar soluções que combinam funcionalidade e design intuitivo. Aqui estão algumas das tecnologias que trabalho:
 
 - Frontend: HTML, CSS, JavaScript
