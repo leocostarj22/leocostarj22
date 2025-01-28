@@ -13,7 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70px" height="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70px" height="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="70px" height="60">
-  <img src="https://www.flaticon.com/free-icon/c-sharp_6132221" width="70px" height="60">
+  <img src="https://icons8.com/icon/Fycm8TUhWmFU/c-sharp-logo" width="70px" height="60">
   <br>
 </div>
 <br>
