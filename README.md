@@ -8,6 +8,12 @@
 - 📫 Contatos: leocostadeveloper@icloud.com ...
 - LinkedIn: https://www.linkedin.com/in/leocostadeveloper/
 
+Sou um desenvolvedor de software com base em Lisboa, apaixonado por criar soluções que combinam funcionalidade e design intuitivo. Aqui estão algumas das tecnologias que trabalho:
+
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP, .NET/C#
+- Banco de Dados: MySQL, SQL Server
+
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leocostarj22&show_icons=true&theme=tokyonight)
@@ -15,12 +21,6 @@
 <hr>
 
 <div style="align: center">
-Sou um desenvolvedor de software com base em Lisboa, apaixonado por criar soluções que combinam funcionalidade e design intuitivo. Aqui estão algumas das tecnologias que trabalho:
-
-- Frontend: HTML, CSS, JavaScript
-- Backend: PHP, .NET/C#
-- Banco de Dados: MySQL, SQL Server
-
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="40" />
