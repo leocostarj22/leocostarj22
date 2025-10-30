@@ -60,9 +60,15 @@ Atualmente, foco meus projetos em criar **soluções eficientes e escaláveis** 
 
 <div align="center">
 
-🐍 <i>Contribuições vivas!</i><br>
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+<h3>🐍 Minhas contribuições em ação!</h3>
+
+<p>
+  <img src="https://raw.githubusercontent.com/leocostarj22/leocostarj22/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+</p>
+
+<p>
+  <i>Atualizado automaticamente todos os dias 🕓</i>
+</p>
 
 </div>
-
 
