@@ -62,9 +62,7 @@ Atualmente, foco meus projetos em criar **soluções eficientes e escaláveis** 
 
 <h3>🐍 Minhas contribuições em ação!</h3>
 
-<p>
-  <img src="https://raw.githubusercontent.com/leocostarj22/leocostarj22/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
-</p>
+<hr> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leocostarj22&show_icons=true&theme=tokyonight) <hr>
 
 <p>
   <i>Atualizado automaticamente todos os dias 🕓</i>
